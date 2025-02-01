@@ -1,0 +1,9 @@
+Image usage:
+- stock_lvp_football.jpg
+	LFC page
+- stock_john_lennon.jpg
+	People page
+- stock_lvp_museum.jpg
+	City page
+- stock_lvp_radio_city.jpg
+	Buildings page
