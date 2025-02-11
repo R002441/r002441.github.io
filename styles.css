@@ -195,7 +195,6 @@ body {
 .text-row .text-block {
     background-color: #4a5c79;
     color: #edf2f4;
-    height: 300px;
     display: flex;
     justify-content: center;
     align-items: center;
